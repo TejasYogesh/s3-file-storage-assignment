@@ -1,0 +1,14 @@
+# Maven build output
+target/
+
+# Local secrets - never commit these
+src/main/resources/application-local.properties
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
