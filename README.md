@@ -4,11 +4,11 @@ A Spring Boot REST API to search, upload, and download files stored in AWS S3.
 Each user's files are isolated in their own S3 folder (e.g., `sandy/`).
 
 ---
-Video reference for the explanation of the final output: (please watch it for the working using swaggerUI + AWS IAM , S3 bucket):
+# Video reference for the explanation of the final output: (please watch it for the working using swaggerUI + AWS IAM , S3 bucket):
 https://drive.google.com/file/d/1h6yoDs3N2dpVom5nFkPvzoOtZW2Pfmjg/view?usp=drive_link
 
 
-Photo of the final output: 
+# Photo of the final output: 
 Creation of the s3 bucket with swagger UI
 <img width="1914" height="913" alt="image" src="https://github.com/user-attachments/assets/00516501-b04f-48de-97c9-429ac674c07c" />
 <img width="1916" height="909" alt="image" src="https://github.com/user-attachments/assets/26c11b19-b887-4bac-a38c-40576c70c891" />
